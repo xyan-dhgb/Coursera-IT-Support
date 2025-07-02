@@ -14,8 +14,8 @@
 
 ## What is the file manager in macOS called?
 
-- [ ] Finder
-- [x] File Explorer
+- [x ] Finder
+- [ ] File Explorer
 - [ ] Konqueror
 - [ ] Midnight Commander
 
