@@ -1,4 +1,4 @@
-## Revision
+# Revision
 
 ## What are the two main parts that make up an operating system?
 
